@@ -1,0 +1,1 @@
+When the Material Design toolkit is applied to the project and TaskbarIcon has a context menu where subitems are bound, the child flyouts appear in the upper right hand corner of the screen. If the subitems are hard coded, the problem does not occur.
